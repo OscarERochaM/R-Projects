@@ -19,5 +19,3 @@ You are free to share and adapt the material, even for commercial purposes, as l
 
 For more information, please visit:  
 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-
-![Creative Commons License](ruta/a/creative-commons.png)
