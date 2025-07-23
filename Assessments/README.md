@@ -4,8 +4,10 @@ This folder contains homework assignments and scripts related to the course "Mat
 
 ## Contents
 
-- **Homework 1.R** — Homework 1 script, with the instructions in a word file.
-- **Homework 2.R** — Homework 2 script, with the instructions in a pdf file.
+## Contents
+
+- [Homework 1](./Homework%201/): Includes the R script and related files for the first assignment.
+- [Homework 2](./Homework%202/): Includes the R script and related files for the second assignment.
 
 ## Notes
 
