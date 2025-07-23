@@ -11,6 +11,5 @@ This repository contains all projects developed using R.
   
 ## Contact
 
-Óscar Eduardo Rocha Mora
-oscar_rocha_pro_23@hotmail.com
-https://www.linkedin.com/in/%C3%B3scar-rocha-152a23160/
+- oscar_rocha_pro_23@hotmail.com
+- https://www.linkedin.com/in/%C3%B3scar-rocha-152a23160/
