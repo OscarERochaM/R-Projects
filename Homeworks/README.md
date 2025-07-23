@@ -14,8 +14,11 @@ This folder contains homework assignments and scripts related to the course "Mat
 
 ## License
 
-This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+This work is licensed under the  
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt the material, even for commercial purposes, as long as you give appropriate credit to the original author.
 
 For more information, please visit:  
 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+![CC BY 4.0 License](https://i.creativecommons.org/l/by/4.0/88x31.png)
