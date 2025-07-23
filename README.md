@@ -2,7 +2,9 @@
 
 Repository that contains al projects using R
 
+This repository contains all projects developed using R.
+
 ## Projects
 
-- [Tesina](./Tesina) - En español
--  [Homeworks](./Homeworks): Homework assignments for Mathematics and probabilities for economy course.
+- **Tesina** *(in Spanish)*: Final undergraduate research project.
+- **Assessments**: Homework assignments, applied projects, and test solutions for the *Mathematics and Probability for Economics* course.
