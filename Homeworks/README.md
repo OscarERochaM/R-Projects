@@ -5,7 +5,7 @@ This folder contains homework assignments and scripts related to the course "Mat
 ## Contents
 
 - **Tarea 1.R** — Homework 1 script
-- **Tarea 2.R.r** — Homework 2 script
+- **Tarea 2.R** — Homework 2 script
 - Additional supporting files and project configuration files.
 
 ## Notes
