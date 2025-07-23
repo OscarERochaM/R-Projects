@@ -4,11 +4,15 @@ Este proyecto contiene el análisis económico realizado para la tesina.
 
 ## Estructura del proyecto
 
-- `Datos/` : Carpeta con los archivos CSV con los datos usados.
-- `Scripts/` : Código R para cargar datos y hacer análisis.
-- `Resultados/` : Carpeta para guardar gráficos y resultados generados.
-- `Tesina escrito.pdf` : Documento final de la tesina.
+- La carpeta `Datos/` con todos los archivos de datos utilizados.
+- La carpeta `Scripts/` que contiene los scripts de análisis y procesamiento, que deben abrirse y ejecutarse manualmente según sea necesario.
+- El documento final `Tesina escrito.pdf`
 - `README.md` : Este archivo con información sobre el proyecto.
+- El archivo `Tesina.Rproj` para configurar el entorno de trabajo y facilitar la navegación en RStudio.
+
+**Nota:** Al abrir el proyecto con RStudio, los scripts no se abrirán automáticamente. Por favor, acceda a la carpeta `Scripts/` desde el panel de archivos y abra manualmente los scripts que necesite ejecutar o revisar.
+
+Este enfoque asegura que cada usuario tenga control total sobre qué scripts abrir y cuándo ejecutarlos, manteniendo un entorno de trabajo ordenado y personalizado.
 
 ## Cómo usar
 
