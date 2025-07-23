@@ -8,6 +8,7 @@ This folder contains homework assignments and scripts related to the course "Mat
 
 - [Homework 1](./Homework%201/): Includes the R script and related files for the first assignment.
 - [Homework 2](./Homework%202/): Includes the R script and related files for the second assignment.
+- [Applied Project](./Applied%20Project/): Applied project related to Z-Score and credit risk analysis.
 
 ## Notes
 
