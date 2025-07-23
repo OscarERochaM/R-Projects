@@ -1,6 +1,6 @@
 # Homeworks - Mathematics and probabilities
 
-This folder contains homework assignments and scripts related to the course "Mathematics and probabilities for economy" from the Master's in Risk and Finance program.
+This folder contains homework assignments and scripts related to the course "Mathematics and probability for Economics" from the Master's in Risk and Finance program.
 
 ## Contents
 
