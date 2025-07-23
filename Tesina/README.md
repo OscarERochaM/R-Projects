@@ -23,10 +23,6 @@ Este proyecto contiene el análisis económico realizado para la tesina.
 - ggplot2
 - readr
 
-## Contacto
-
-Óscar Eduardo Rocha Mora - oscar_rocha_pro_23@hotmail.com
-
 ## Licencia
 
 Este trabajo está licenciado bajo una 
