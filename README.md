@@ -1,6 +1,6 @@
-# R Projects
+# R Portfolio
 
-Este repositorio contiene varios proyectos y scripts en R organizados en carpetas independientes.
+Repository that contains al projects using R
 
 ## Proyectos
 
